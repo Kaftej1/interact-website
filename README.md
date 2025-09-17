@@ -128,14 +128,7 @@ You can also provide your `.rar` archive for offline use:
 
 ---
 
-## 📷 Screenshots / GIFs (Optional)
+## 📷 Screenshots / GIFs / Video (Optional)
 
-Include screenshots or GIFs to make your project visually appealing. Example:
-
-- Homepage  
-- Event registration page  
-- Admin dashboard
-
-```markdown
-![full-website video](https://github.com/Kaftej1/interact-website/raw/master/interact-website.mp4)
+![Full Website Preview](https://github.com/Kaftej1/interact-website/raw/master/interact-website.mp4)
 
