@@ -137,5 +137,5 @@ Include screenshots or GIFs to make your project visually appealing. Example:
 - Admin dashboard
 
 ```markdown
-![Homepage](screenshots/homepage.png)
-![Admin Dashboard](screenshots/admin_dashboard.png)
+![full-website video](https://github.com/Kaftej1/interact-website/raw/master/interact-website.mp4)
+
